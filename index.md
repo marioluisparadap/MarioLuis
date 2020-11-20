@@ -57,3 +57,11 @@
         }
     }
 </script>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="ChatbotRestaurante"
+  agent-id="7d0d3b13-5660-4048-9598-cb705ab0ee97"
+  language-code="es"
+></df-messenger>
